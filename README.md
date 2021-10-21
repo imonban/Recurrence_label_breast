@@ -12,3 +12,4 @@ In order to run the labeling code, please following the following steps -
           NOTE - String blob
 4. Model will save the output in ./outcome folder
           
+Banerjee, Imon, Selen Bozkurt, Jennifer Lee Caswell-Jin, Allison W. Kurian, and Daniel L. Rubin. "Natural language processing approaches to detect the timeline of metastatic recurrence of breast cancer." JCO clinical cancer informatics 3 (2019): 1-12.
